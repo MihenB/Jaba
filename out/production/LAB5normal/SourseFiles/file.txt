@@ -1,0 +1,4 @@
+add {name=mrpear,coordinatesX=190,coordinatesY=6,salary=23223.54,startDate=1658-12-12,position=LABORER,status=RECOMMENDED_FOR_PROMOTION,organizationEmployeesCount=667,organizationType=PUBLIC,organizationOfficialAddress='Mainstreet'}
+update 1 {name=mrFirst,coordinatesX=7,coordinatesY=-75,salary=23223.54,startDate=1658-12-12,position=LABORER,status=RECOMMENDED_FOR_PROMOTION,organizationEmployeesCount=667,organizationType=PUBLIC,organizationOfficialAddress='Mainstreet'}
+add {name=mrpear,salary=5.54,startDate=1658-12-12}
+{id=1,Name=mrpear,coordinatesX=45,coordinatesY=45,creationDate=2022-03-26,salary=5.54,startDate=1658-12-12,position=BAKER,status=FIRED,organizationEmployeesCount=54,organizationType=PUBLIC,organizationOfficialAddress=Main Street}
